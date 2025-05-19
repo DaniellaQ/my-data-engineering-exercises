@@ -8,24 +8,24 @@ All solution code is my own.
 
 
 Beginner Exercises
-Exercise 1 - Downloading files :heavy_check_mark: &#9745;
+Exercise 1 - Downloading files :white_check_mark:
 
-Exercise 2 - Web Scraping + Downloading + Pandas []
+Exercise 2 - Web Scraping + Downloading + Pandas :white_large_square:
 
-Exercise 3 - Boto3 AWS + s3 + Python []
+Exercise 3 - Boto3 AWS + s3 + Python :white_large_square:
 
-Exercise 4 - Convert JSON to CSV + Ragged Directories []
+Exercise 4 - Convert JSON to CSV + Ragged Directories :white_large_square:
 
-Exercise 5 - Data Modeling for Postgres + Python []
+Exercise 5 - Data Modeling for Postgres + Python :white_large_square:
 
 Intermediate Exercises
-Exercise 6 - Ingestion and Aggregation with PySpark []
+Exercise 6 - Ingestion and Aggregation with PySpark :white_large_square:
 
-Exercise 7 - Using Various PySpark Functions []
+Exercise 7 - Using Various PySpark Functions :white_large_square:
 
-Exercise 8 - Using DuckDB for Analytics and Transforms []
+Exercise 8 - Using DuckDB for Analytics and Transforms :white_large_square:
 
-Exercise 9 - Using Polars lazy computation []
+Exercise 9 - Using Polars lazy computation :white_large_square:
 
 Advanced Exercises
-Exercise 10 - Data Quality with Great Expectations []
+Exercise 10 - Data Quality with Great Expectations :white_large_square:
