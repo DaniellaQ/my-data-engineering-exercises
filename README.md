@@ -8,6 +8,7 @@ All solution code is my own.
 
 
 Beginner Exercises
+
 Exercise 1 - Downloading files :white_check_mark:
 
 Exercise 2 - Web Scraping + Downloading + Pandas :white_large_square:
