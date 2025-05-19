@@ -8,7 +8,7 @@ All solution code is my own.
 
 
 Beginner Exercises
-Exercise 1 - Downloading files [x]
+Exercise 1 - Downloading files - [x]
 
 Exercise 2 - Web Scraping + Downloading + Pandas []
 
